@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "theforgottenexpance:pharaoh_tomb",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 774356530,
+    "spacing": 20,
+    "separation": 6
+  }
+}

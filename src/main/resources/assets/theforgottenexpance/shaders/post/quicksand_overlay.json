@@ -1,0 +1,42 @@
+{
+  "targets": [
+    "swap",
+    "final"
+  ],
+  "passes": [
+    {
+      "name": "quicksand_overlay",
+      "intarget": "final",
+      "outtarget": "swap"
+    },
+    {
+      "name": "quicksand_overlay",
+      "intarget": "swap",
+      "outtarget": "final",
+      "use_linear_filter": true,
+      "uniforms": [
+        {
+          "name": "BlurDir",
+          "values": [ 1.0, 0.0 ]
+        }
+      ]
+    },
+    {
+      "name": "quicksand_overlay",
+      "intarget": "final",
+      "outtarget": "swap",
+      "use_linear_filter": true,
+      "uniforms": [
+        {
+          "name": "BlurDir",
+          "values": [ 0.0, 1.0 ]
+        }
+      ]
+    },
+    {
+      "name": "blit",
+      "intarget": "swap",
+      "outtarget": "final"
+    }
+  ]
+}

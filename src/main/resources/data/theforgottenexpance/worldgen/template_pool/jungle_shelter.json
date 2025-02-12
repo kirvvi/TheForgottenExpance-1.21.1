@@ -1,0 +1,15 @@
+{
+  "name": "theforgottenexpance:jungle_shelter",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "theforgottenexpance:jungle_shelter",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

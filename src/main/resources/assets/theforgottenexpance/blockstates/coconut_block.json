@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "theforgottenexpance:block/coconut_block"
+    },
+    "facing=south": {
+      "model": "theforgottenexpance:block/coconut_block",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "theforgottenexpance:block/coconut_block",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "theforgottenexpance:block/coconut_block",
+      "y": 270
+    }
+  }
+}

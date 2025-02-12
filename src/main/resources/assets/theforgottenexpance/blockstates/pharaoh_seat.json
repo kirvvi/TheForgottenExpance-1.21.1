@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "theforgottenexpance:block/pharaoh_seat"
+    },
+    "facing=south": {
+      "model": "theforgottenexpance:block/pharaoh_seat",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "theforgottenexpance:block/pharaoh_seat",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "theforgottenexpance:block/pharaoh_seat",
+      "y": 270
+    }
+  }
+}

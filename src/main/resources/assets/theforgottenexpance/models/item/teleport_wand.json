@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "theforgottenexpance:item/teleport_wand"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "theforgottenexpance:used": 1.0
+      },
+      "model": "theforgottenexpance:item/teleport_wand_used"
+    }
+  ]
+}

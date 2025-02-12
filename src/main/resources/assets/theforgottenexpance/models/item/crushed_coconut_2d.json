@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "theforgottenexpance:item/crushed_coconut_2d"
+  }
+}

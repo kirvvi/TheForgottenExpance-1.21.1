@@ -1,0 +1,6 @@
+{
+  "parent": "theforgottenexpance:item/shadowmare_bow",
+  "textures": {
+    "layer0": "theforgottenexpance:item/shadowmare_bow_pulling_1"
+  }
+}

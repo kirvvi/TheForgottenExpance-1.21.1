@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "loader": "neoforge:separate_transforms",
+  "base": {
+    "parent": "theforgottenexpance:item/rock_2d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "theforgottenexpance:item/rock_2d"
+    },
+    "ground": {
+      "parent": "theforgottenexpance:item/rock_2d"
+    },
+    "fixed": {
+      "parent": "theforgottenexpance:item/rock_2d"
+    }
+  }
+}
