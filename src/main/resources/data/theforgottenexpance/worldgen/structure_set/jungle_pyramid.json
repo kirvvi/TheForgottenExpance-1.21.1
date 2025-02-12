@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "theforgottenexpance:jungle_pyramid",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 774356230,
+    "spacing": 20,
+    "separation": 10
+  }
+}

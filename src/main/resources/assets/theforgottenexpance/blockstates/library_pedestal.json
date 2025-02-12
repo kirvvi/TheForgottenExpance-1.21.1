@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "theforgottenexpance:block/library_pedestal"
+    },
+    "facing=south": {
+      "model": "theforgottenexpance:block/library_pedestal",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "theforgottenexpance:block/library_pedestal",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "theforgottenexpance:block/library_pedestal",
+      "y": 270
+    }
+  }
+}

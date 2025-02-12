@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "theforgottenexpance:block/dark_tree_planks"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "theforgottenexpance:item/flamecoal_0"
+  },
+  "overrides": [
+    {
+      "predicate": { "theforgottenexpance:cycle_state": 1 },
+      "model": "theforgottenexpance:item/flamecoal_1"
+    },
+    {
+      "predicate": { "theforgottenexpance:cycle_state": 2 },
+      "model": "theforgottenexpance:item/flamecoal_2"
+    },
+    {
+      "predicate": { "theforgottenexpance:cycle_state": 3 },
+      "model": "theforgottenexpance:item/flamecoal_3"
+    }
+  ]
+}

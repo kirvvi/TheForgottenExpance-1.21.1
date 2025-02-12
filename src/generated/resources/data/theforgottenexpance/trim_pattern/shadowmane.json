@@ -1,0 +1,8 @@
+{
+  "asset_id": "theforgottenexpance:shadowmane",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.theforgottenexpance.shadowmane"
+  },
+  "template_item": "theforgottenexpance:shadowmane_armor_trim_smithing_template"
+}

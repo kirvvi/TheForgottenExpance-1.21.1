@@ -1,0 +1,10 @@
+{
+  "values": {
+    "theforgottenexpance:tomato": {
+      "chance": 0.5
+    },
+    "theforgottenexpance:tomato_seeds": {
+      "chance": 0.25
+    }
+  }
+}

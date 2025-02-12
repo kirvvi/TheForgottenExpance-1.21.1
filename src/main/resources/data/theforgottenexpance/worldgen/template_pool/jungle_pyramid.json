@@ -1,0 +1,15 @@
+{
+  "name": "theforgottenexpance:jungle_pyramid",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "theforgottenexpance:jungle_pyramid",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

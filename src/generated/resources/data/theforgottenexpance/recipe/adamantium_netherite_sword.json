@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "theforgottenexpance:adamantium_netherite_cluster"
+    },
+    "X": {
+      "item": "theforgottenexpance:quartz_leather_stick"
+    }
+  },
+  "pattern": [
+    " # ",
+    " # ",
+    " X "
+  ],
+  "result": {
+    "count": 1,
+    "id": "theforgottenexpance:adamantium_netherite_sword"
+  }
+}

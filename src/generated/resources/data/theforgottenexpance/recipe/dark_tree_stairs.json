@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "dark_tree_planks",
+  "key": {
+    "#": {
+      "item": "theforgottenexpance:dark_tree_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "theforgottenexpance:dark_tree_stairs"
+  }
+}

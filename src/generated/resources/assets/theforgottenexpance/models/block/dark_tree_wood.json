@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "theforgottenexpance:block/dark_tree_log",
+    "side": "theforgottenexpance:block/dark_tree_log"
+  }
+}

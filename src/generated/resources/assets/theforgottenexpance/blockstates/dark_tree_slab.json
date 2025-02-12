@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "theforgottenexpance:block/dark_tree_slab"
+    },
+    "type=double": {
+      "model": "theforgottenexpance:block/dark_tree_planks"
+    },
+    "type=top": {
+      "model": "theforgottenexpance:block/dark_tree_slab_top"
+    }
+  }
+}

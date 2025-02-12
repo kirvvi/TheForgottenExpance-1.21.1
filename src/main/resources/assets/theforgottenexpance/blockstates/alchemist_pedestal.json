@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "theforgottenexpance:block/alchemist_pedestal"
+    },
+    "facing=south": {
+      "model": "theforgottenexpance:block/alchemist_pedestal",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "theforgottenexpance:block/alchemist_pedestal",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "theforgottenexpance:block/alchemist_pedestal",
+      "y": 270
+    }
+  }
+}

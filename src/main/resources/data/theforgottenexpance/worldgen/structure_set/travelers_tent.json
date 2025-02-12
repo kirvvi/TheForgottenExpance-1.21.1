@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "theforgottenexpance:travelers_tent",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 774356299,
+    "spacing": 10,
+    "separation": 5
+  }
+}

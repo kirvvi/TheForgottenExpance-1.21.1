@@ -1,0 +1,16 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "minecraft:forest",
+    "minecraft:taiga",
+    "minecraft:snowy_taiga",
+    "minecraft:savanna",
+    "minecraft:wooded_badlands"
+  ],
+  "spawners": {
+    "type": "theforgottenexpance:porcupine",
+    "maxCount": 4,
+    "minCount": 2,
+    "weight": 20
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "theforgottenexpance:item/teleport_wand_used"
+  }
+}

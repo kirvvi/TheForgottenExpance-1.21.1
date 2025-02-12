@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "theforgottenexpance:block/dark_tree_planks"
+  }
+}

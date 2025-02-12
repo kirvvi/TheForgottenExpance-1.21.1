@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "theforgottenexpance:block/dark_tree_sapling"
+  }
+}

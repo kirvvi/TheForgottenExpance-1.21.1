@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "dark_tree_planks",
+  "key": {
+    "#": {
+      "item": "theforgottenexpance:dark_tree_planks"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "id": "theforgottenexpance:dark_tree_trapdoor"
+  }
+}

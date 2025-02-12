@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "loader": "neoforge:separate_transforms",
+  "base": {
+    "parent": "theforgottenexpance:item/destroyed_coconut_2d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "theforgottenexpance:item/destroyed_coconut_2d"
+    },
+    "ground": {
+      "parent": "theforgottenexpance:item/destroyed_coconut_2d"
+    },
+    "fixed": {
+      "parent": "theforgottenexpance:item/destroyed_coconut_2d"
+    }
+  }
+}
