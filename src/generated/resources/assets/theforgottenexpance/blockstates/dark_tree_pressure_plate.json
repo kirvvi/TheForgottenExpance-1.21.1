@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "theforgottenexpance:block/dark_tree_pressure_plate"
+    },
+    "powered=true": {
+      "model": "theforgottenexpance:block/dark_tree_pressure_plate_down"
+    }
+  }
+}

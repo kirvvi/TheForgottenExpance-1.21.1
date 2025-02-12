@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "theforgottenexpance:block/chiseled_blue_sandstone_top",
+    "side": "theforgottenexpance:block/chiseled_blue_sandstone"
+  }
+}

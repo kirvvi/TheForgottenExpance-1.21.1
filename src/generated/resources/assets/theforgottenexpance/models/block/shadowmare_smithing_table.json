@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "theforgottenexpance:block/shadowmare_smithing_table_bottom",
+    "east": "theforgottenexpance:block/shadowmare_smithing_table_side",
+    "north": "theforgottenexpance:block/shadowmare_smithing_table_front",
+    "particle": "theforgottenexpance:block/shadowmare_smithing_table_top",
+    "south": "theforgottenexpance:block/shadowmare_smithing_table_side",
+    "up": "theforgottenexpance:block/shadowmare_smithing_table_top",
+    "west": "theforgottenexpance:block/shadowmare_smithing_table_side"
+  }
+}

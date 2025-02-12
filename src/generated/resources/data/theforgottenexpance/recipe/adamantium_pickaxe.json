@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "theforgottenexpance:adamantium"
+    },
+    "X": {
+      "item": "theforgottenexpance:quartz_stick"
+    }
+  },
+  "pattern": [
+    "###",
+    " X ",
+    " X "
+  ],
+  "result": {
+    "count": 1,
+    "id": "theforgottenexpance:adamantium_pickaxe"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "theforgottenexpance:adamantium"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    "##",
+    " X"
+  ],
+  "result": {
+    "count": 4,
+    "id": "theforgottenexpance:adamantium_netherite_cluster"
+  }
+}

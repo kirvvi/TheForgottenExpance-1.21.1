@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "theforgottenexpance:quartz_stick"
+    },
+    "S": {
+      "item": "minecraft:ender_pearl"
+    },
+    "X": {
+      "item": "theforgottenexpance:adamantium"
+    }
+  },
+  "pattern": [
+    " XS",
+    " #X",
+    "X  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "theforgottenexpance:teleport_wand"
+  }
+}

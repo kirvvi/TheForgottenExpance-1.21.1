@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "theforgottenexpance:adamantium_netherite_axe"
+    },
+    "A": {
+      "item": "theforgottenexpance:adamantium_netherite_shovel"
+    },
+    "S": {
+      "item": "theforgottenexpance:adamantium_netherite_pickaxe"
+    },
+    "X": {
+      "item": "theforgottenexpance:quartz_leather_stick"
+    }
+  },
+  "pattern": [
+    "A#S",
+    " X ",
+    " X "
+  ],
+  "result": {
+    "count": 1,
+    "id": "theforgottenexpance:adamantium_netherite_paxel"
+  }
+}

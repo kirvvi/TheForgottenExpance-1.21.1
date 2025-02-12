@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_down",
+  "textures": {
+    "texture": "theforgottenexpance:block/dark_tree_planks"
+  }
+}

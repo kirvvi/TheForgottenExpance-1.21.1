@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "theforgottenexpance:block/dark_tree_planks",
+    "side": "theforgottenexpance:block/dark_tree_planks",
+    "top": "theforgottenexpance:block/dark_tree_planks"
+  }
+}

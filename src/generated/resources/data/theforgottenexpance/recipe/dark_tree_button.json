@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "dark_tree_planks",
+  "ingredients": [
+    {
+      "item": "theforgottenexpance:dark_tree_planks"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "theforgottenexpance:dark_tree_button"
+  }
+}

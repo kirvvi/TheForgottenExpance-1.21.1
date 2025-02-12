@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "theforgottenexpance:block/chiseled_blue_sandstone",
+    "side": "theforgottenexpance:block/chiseled_blue_sandstone",
+    "top": "theforgottenexpance:block/chiseled_blue_sandstone"
+  }
+}

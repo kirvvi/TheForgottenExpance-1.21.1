@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "theforgottenexpance:adamantium_netherite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "theforgottenexpance:adamantium_netherite_cluster"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "theforgottenexpance:item/quartz_leather_stick"
+  }
+}

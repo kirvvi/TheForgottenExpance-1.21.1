@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "theforgottenexpance:shadowmare"
+    },
+    "X": {
+      "item": "theforgottenexpance:dark_tree_planks"
+    }
+  },
+  "pattern": [
+    "##",
+    "XX",
+    "XX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "theforgottenexpance:shadowmare_smithing_table"
+  }
+}

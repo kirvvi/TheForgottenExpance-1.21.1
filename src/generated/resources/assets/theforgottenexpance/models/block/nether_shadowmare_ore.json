@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "theforgottenexpance:block/nether_shadowmare_ore"
+  }
+}
